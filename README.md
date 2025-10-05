@@ -3,6 +3,7 @@
 ## Student A: MinHeap with decrease-key and merge operations
 
 ### Repository Structure
+```text
 assignment2-minheap/
 ├── src/main/java/
 │   ├── algorithms/MinHeap.java
@@ -15,6 +16,7 @@ assignment2-minheap/
 ├── performance-plots/
 ├── README.md
 └── pom.xml
+```
 
 ### Implementation Features
 - Complete MinHeap data structure
@@ -50,3 +52,4 @@ assignment2-minheap/
 - Feature branches: algorithm, metrics, testing, cli
 - Conventional commit messages
 - Clean, logical commit history
+
